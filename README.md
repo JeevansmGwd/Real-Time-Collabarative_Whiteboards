@@ -41,22 +41,18 @@ Open the application in your browser: Visit in your web browser.
 ```bash  
 http://localhost:3000
 ``` 
+## Deployment
 
+To deploy this project run
+
+```bash
+  npm run deploy
+```
 
     
 ## Contributing
 
 Contributions are welcome! Please feel free to fork the repository, make your changes, and submit a pull request.
-
-## Usage/Examples
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
 
 
 ## 🚀 About Me
@@ -84,11 +80,5 @@ Motivated developer with a focus on testing, validating, and securing software a
 📄 Know about my experiences www.linkedin.com/in/jeevansmgwd
 
 
-## Deployment
 
-To deploy this project run
-
-```bash
-  npm run deploy
-```
 
